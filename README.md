@@ -1,6 +1,4 @@
-# invie-github
-Prueba de curso github platzi
+# invie
+Las guitarras más locas
 
-Cambio realizado 13/04/19 a las 11.21am
-
-Cambios al repositorio remoto
+http://leonidasesteban.github.io/invie-responsive/
